@@ -1,10 +1,3 @@
-/*
- * zachetka.h
- *
- *  Created on: Mar 18, 2020
- *      Author: yuri
- */
-
 #ifndef ZACHETKA_H_
 #define ZACHETKA_H_
 #include <list>
