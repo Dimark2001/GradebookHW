@@ -1,12 +1,3 @@
-/*
- * group.h
- *
- *  Created on: Mar 25, 2020
- *      Author: yuri
- */
-
-
-
 #ifndef GROUP_H_
 #define GROUP_H_
 #include <list>
