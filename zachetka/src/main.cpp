@@ -1,10 +1,3 @@
-/*
- * main.cpp
- *
- *  Created on: Mar 25, 2020
- *      Author: yuri
- */
-
 #include <iostream>
 #include <list>
 #include "zachetka.h"
@@ -45,4 +38,3 @@ int main() {
 
 	return 0;
 }
-
