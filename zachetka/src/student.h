@@ -1,10 +1,3 @@
-/*
- * student.h
- *
- *  Created on: Mar 25, 2020
- *      Author: yuri
- */
-
 #ifndef STUDENT_H_
 #define STUDENT_H_
 #include <string>
